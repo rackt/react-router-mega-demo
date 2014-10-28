@@ -7,6 +7,7 @@ for server-side rendering with react-router.
 After cloning the repo, do this so check it out:
 
 ```sh
+$ npm install -g supervisor
 $ npm install
 $ ./script/dev
 # open http://localhost:5000
