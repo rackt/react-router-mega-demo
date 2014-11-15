@@ -30,6 +30,7 @@
     "karma-mocha": "^0.1.4",
     "karma-webpack": "^1.2.1",
     "mocha": "^1.20.1",
+    "supervisor": "^0.6.0",
     "webpack-dev-server": "^1.4.6"
   }
 }
