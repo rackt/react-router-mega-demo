@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "0.4.0",
-    "mach": "git://github.com/mjackson/mach#1.0",
+    "mach": "^1.0.0-rc1",
     "node-jsx": "0.11.0",
     "pushstate-server": "^0.2.0",
     "react": "0.11.0",
@@ -30,6 +30,7 @@
     "karma-mocha": "^0.1.4",
     "karma-webpack": "^1.2.1",
     "mocha": "^1.20.1",
+    "supervisor": "^0.6.0",
     "webpack-dev-server": "^1.4.6"
   }
 }
