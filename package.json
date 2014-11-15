@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "0.4.0",
-    "mach": "git://github.com/mjackson/mach#1.0",
+    "mach": "^1.0.0-rc1",
     "node-jsx": "0.11.0",
     "pushstate-server": "^0.2.0",
     "react": "0.11.0",
